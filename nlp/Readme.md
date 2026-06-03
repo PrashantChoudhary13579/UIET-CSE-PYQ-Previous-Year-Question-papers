@@ -8,3 +8,7 @@
 - Those word file are converted to pdf also..
 - Please ensure to remove atleast the header of all those pdf or word file.
 - Firstly, convert the pdf file into word file, then modify it...
+
+### TO BE DONE:
+
+1. PYQs will be uploaded soon for both the majors and minors.
